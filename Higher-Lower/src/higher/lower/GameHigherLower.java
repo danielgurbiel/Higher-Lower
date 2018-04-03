@@ -11,8 +11,8 @@ import java.util.Scanner;
 
 public class GameHigherLower {
     private int range;
-    private static int number_of_attempts;
-    private static Scanner input;
+    private int number_of_attempts;
+    private Scanner input;
     private int random_value;
     private Random generator;
 
